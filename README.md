@@ -1,2 +1,1 @@
-# fantastic-adventure
-Module 20 Challenge React Challenge: React Portfolio
+# Module 20 Challenge React Challenge: React Portfolio
