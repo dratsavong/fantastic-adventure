@@ -5,7 +5,7 @@ import '../styles/Header.css';
 function Header() {
   return (
     <header className="header">
-      <h1>Home</h1>
+      <h1>Destiny Ratsavong</h1>
     </header>
   );
 }

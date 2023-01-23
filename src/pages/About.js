@@ -1,16 +1,13 @@
 import React from 'react';
+import '../styles/style.css';
 
 export default function About() {
   return (
-    <div>
-      <h1>About Page</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
+    <div class="about-container">
+      <h1 class="about-title" >Hello!</h1>
+  
+      <p class="about-text">
+        My name is Destiny Ratsavong. I am currently a senior at The Ohio State University studying biology. I am also a student in OSU's Full Stack Web Development Bootcamp. I am an avid reader and I enjoy reading myster and thriller novels. I also love to do things that express my creativity such as painting, knitting, sewing, pottery and plenty more. I would consider myself a curious person and I love to learn more about the world around me. 
       </p>
     </div>
   );

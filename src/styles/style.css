@@ -1,0 +1,63 @@
+
+.about-container {
+    padding: 55px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.about-title {
+    font-size: 45px;
+}
+
+.about-text {
+    font-size: 20px;
+}
+
+.portfolio-container {
+    padding: 55px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.portfolio-title {
+    font-size: 45px;
+}
+
+.portfolio-text {
+    font-size: 20px;
+}
+
+.resume-container {
+    padding: 55px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.resume-title{
+    font-size: 45px
+}
+
+.resume-text {
+    font-size: 20px;
+}
+.contact-form-container {
+    padding: 55px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contact-title {
+    font-size: 35px;
+}
+
+.form {
+    margin: 20px;
+}
+
+.form input {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.card {
+    margin: 3%;
+}
+
