@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fantastic-adventure/static/css/main.7e55bafe.css",
+    "main.js": "/fantastic-adventure/static/js/main.32aa1800.js",
+    "index.html": "/fantastic-adventure/index.html",
+    "main.7e55bafe.css.map": "/fantastic-adventure/static/css/main.7e55bafe.css.map",
+    "main.32aa1800.js.map": "/fantastic-adventure/static/js/main.32aa1800.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e55bafe.css",
+    "static/js/main.32aa1800.js"
+  ]
+}
